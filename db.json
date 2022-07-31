@@ -22,7 +22,7 @@
       "id": 4,
       "text": "Angular crash course",
       "day": "July 31st at 10:00am",
-      "reminder": true
+      "reminder": false
     }
   ]
 }
